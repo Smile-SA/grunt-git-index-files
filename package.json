@@ -2,7 +2,7 @@
   "name": "grunt-git-index-files",
   "description": "Grunt plugin for filtering files set from other tasks into git index files only.",
   "version": "0.0.1",
-  "homepage": "",
+  "homepage": "https://github.com/tonai/grunt-git-index-files",
   "author": {
     "name": "Tony Cabaye",
     "email": "tonai59+github@gmail.com",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonai/grunt-git-index-files"
+    "url": "https://github.com/tonai/grunt-git-index-files.git"
   },
   "bugs": {
     "url": "https://github.com/tonai/grunt-git-index-files/issues"
@@ -25,7 +25,9 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {
@@ -35,5 +37,6 @@
     "gruntplugin",
     "grunt",
     "git"
-  ]
+  ],
+  "readmeFilename": "README.md"
 }
