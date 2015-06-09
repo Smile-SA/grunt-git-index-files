@@ -13,7 +13,7 @@ module.exports = function(grunt) {
 
   grunt.registerMultiTask(
     'gitIndexFiles',
-    'Filters files set from other tasks into git index files only.,
+    'Filters files set from other tasks into git index files only.',
     function() {
 
       // Merge task-specific and/or target-specific options with these defaults.

@@ -10,7 +10,7 @@ If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out th
 Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install grunt-git-index-files--save-dev
+npm install grunt-git-index-files --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
@@ -75,6 +75,6 @@ options: {
 }
 ```
 
-The files set defined by config paths will be filtered when the task runs by files that are on the git index.
+The files set defined by config paths will be filtered when the task runs with files that are on the git index.
 
 The task will not add files that are not originally present in the files set.
