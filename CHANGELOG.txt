@@ -1,0 +1,7 @@
+v0.0.2 :
+  date: 2015-06-10
+  changes:
+    - Moving repository
+
+v0.0.1 :
+  date: 2015-06-09

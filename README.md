@@ -78,3 +78,9 @@ options: {
 The files set defined by config paths will be filtered when the task runs with files that are on the git index.
 
 The task will not add files that are not originally present in the files set.
+
+
+
+## Release History
+
+See the [CHANGELOG.txt](https://github.com/Smile-SA/grunt-git-index-files/blob/master/CHANGELOG.txt)

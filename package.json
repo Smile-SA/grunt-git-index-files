@@ -1,6 +1,6 @@
 {
   "name": "grunt-git-index-files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grunt plugin for filtering files set from other tasks into git index files only.",
   "author": "Tony Cabaye <tonai59+github@gmail.com>",
   "contributors": [],
