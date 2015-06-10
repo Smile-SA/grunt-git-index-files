@@ -1,6 +1,6 @@
 /*
  * grunt-git-index-files
- * https://github.com/tonai/grunt-git-index-files
+ * https://github.com/Smile-SA/grunt-git-index-files
  *
  * Copyright (c) 2015 Tony Cabaye
  * Licensed under the MIT license.
